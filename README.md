@@ -1,1 +1,1 @@
-# diy-action-camera-grip
+# DIY Action Camera Grip
